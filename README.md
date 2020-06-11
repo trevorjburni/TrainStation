@@ -7,5 +7,6 @@ To get started just click the link and begin experimenting.
 # Technology Used
 - HTML
 - JavaScript
+- Firebase
 - CSS
 - Twitter Bootstrap
