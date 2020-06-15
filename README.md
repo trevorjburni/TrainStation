@@ -12,8 +12,13 @@ Below the train listings, there is a section to add another train to the schedul
 ![Train Schedule](assets/readme-pictures/train.PNG)
 
 # Technology Used
+
 - HTML
 - JavaScript
 - Firebase
 - CSS
 - Twitter Bootstrap
+
+# Future Features
+
+- Add the ability to remove a train from the schedule.
